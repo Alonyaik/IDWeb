@@ -1,0 +1,6 @@
+program Helloworld;          
+{$APPTYPE CONSOLE}           
+begin
+  writeln('Hello, world!');    
+  world!
+end.
